@@ -1,0 +1,27 @@
+body {text-align: center;
+    background-repeat: repeat;
+    background: rgb(242,225,193);
+background: linear-gradient(180deg, rgba(242,225,193,1) 0%, rgba(246,174,153,1) 72%);
+    
+}
+
+h1, h3 {
+    color: #716F81;
+}
+
+li {
+    
+    color: #B97A95;
+    list-style: none;
+    line-height: 1.2em;
+  
+    
+}
+
+ul {
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid #716F81;
+    box-shadow: 2px solid #B97A95;
+}
